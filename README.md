@@ -1,6 +1,6 @@
 # MuslimPro-Database-Project
 
 
-<img src="/https://img.vim-cn.com/83/7f1d37712b1eeda662c6532c8e4ef9852102f3.gif?raw=true" width="200px">
+<img src="https://img.vim-cn.com/83/7f1d37712b1eeda662c6532c8e4ef9852102f3.gif?raw=true" width="600px">
 
-![MUSLIM Pro](https://img.vim-cn.com/83/7f1d37712b1eeda662c6532c8e4ef9852102f3.gif)
+![MUSLIM PRO](https://img.vim-cn.com/83/7f1d37712b1eeda662c6532c8e4ef9852102f3.gif)
