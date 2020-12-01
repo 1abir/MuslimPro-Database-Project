@@ -1,6 +1,6 @@
 # MuslimPro-Database-Project
 
-![0](https://pasteboard.co/JCRikQq.gif)
+![0](https://pic.yanbin.me/0b/c44f7406e0b9674ff8bd65ee2ae900c57063ba.gif)
 ![1](./readmefiles/Slide1.png)
 ![2](./readmefiles/Slide2.png)
 ![3](./readmefiles/Slide3.png)
