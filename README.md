@@ -1,5 +1,6 @@
 # MuslimPro-Database-Project
 
+![0](https://pasteboard.co/JCRikQq.gif)
 ![1](./readmefiles/Slide1.png)
 ![2](./readmefiles/Slide2.png)
 ![3](./readmefiles/Slide3.png)
@@ -7,7 +8,7 @@
 ![5](./readmefiles/Slide5.png)
 ![6](./readmefiles/Slide6.png)
 ![7](./readmefiles/Slide7.png)
-![8](./readmefiles/Slide8.png)
+![8]()
 ![9](./readmefiles/Slide9.png)
 ![10](./readmefiles/Slide10.png)
 ![11](./readmefiles/Slide11.png)
